@@ -669,7 +669,7 @@
     (property "ki_description" "Push button switch, generic, two pins")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
     (attr through_hole)
-    (fp_text reference "SW19" (at -2.54 -2.794) (layer "F.SilkS")
+    (fp_text reference "SW19" (at -2.54 9.08) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 174c6563-fc90-4340-99d9-7086e955cbc9)
     )
